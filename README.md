@@ -26,7 +26,7 @@ I am an Back-End Developer and Mobile Application Developer, specializing in web
 
 
 
-### Tools 🛠️
+### Tools & Technologies 🛠️
 
 - Know/Using
 
