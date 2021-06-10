@@ -13,7 +13,6 @@ Skilled Backend Developer with 4+ years of hands-on experience in REST API and W
 
 -   👨🏽‍💻 I’m currently working on [Crysto](https://crys.to/);
 -   🌱 I’m currently learning Devops and Continuous Integration(CircleCI);
--   🤔 I’m looking for help with ReactJS in Front-End 😭;
 -   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: amlashi.sadra@gmail.com;
 
@@ -21,9 +20,11 @@ Skilled Backend Developer with 4+ years of hands-on experience in REST API and W
 
 -   Know/Using
 
-| <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="40"> | <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/3b40f5c4cc89355edb33e86a93e919dd25c36a81/icons/swift/swift-original-wordmark.svg" alt="Swift" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/3b40f5c4cc89355edb33e86a93e919dd25c36a81/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> |
-| ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-
+![TypeScript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
+![Javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript)
+![Swift](https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=swift)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin)
 
 
 ### Tools & Technologies 🛠️
