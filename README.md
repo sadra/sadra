@@ -2,7 +2,7 @@
 
 > I've been in love with the Internet since 1999 and worked as a web developer and designer since 2003.
 
-Skilled Backend Developer with 4+ years of hands-on experience in REST API and WebSocket services with NodeJs & NestJS, and broad experience in PostgreSQL & Redis. Currently, focused on developing microservices for cryptocurrency exchanges toolchain. Documenting, Testing, TDD/BDD expert.
+Skilled Backend Developer with 6+ years of hands-on experience in REST API and WebSocket services with NodeJs & NestJS, and broad experience in PostgreSQL & Redis. Currently, focused on developing microservices for cryptocurrency exchanges toolchain. Documenting, Testing, TDD/BDD expert.
 
 <!-- Talking about you -->
 
