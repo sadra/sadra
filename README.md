@@ -12,7 +12,7 @@ Skilled Backend Developer with 6+ years of hands-on experience in REST API and W
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 -   👨🏽‍💻 I’m currently working on [Jumbo](https://Jumbo.com/);
--   🌱 I’m currently learning Devops and Continuous Integration(CircleCI);
+-   🌱 I’m currently learning about AWS Cloud Practitioner;
 -   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: amlashi.sadra@gmail.com;
 
